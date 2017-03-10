@@ -1,0 +1,35 @@
+{
+  "name": "eslint-config-democracyos",
+  "version": "1.0.0",
+  "description": "ESLint Shareable Config for DemocracyOS's projects",
+  "main": "index.js",
+  "dependencies": {
+    "eslint-config-standard": "~7.0.1",
+    "eslint-config-standard-react": "~4.3.0",
+    "eslint-plugin-import": "~2.2.0",
+    "eslint-plugin-promise": "~3.5.0",
+    "eslint-plugin-react": "~6.10.0",
+    "eslint-plugin-standard": "~2.1.1"
+  },
+  "devDependencies": {},
+  "peerDependencies": {
+    "eslint": ">= 3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DemocracyOS/eslint-config-democracyos.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "mjlescano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DemocracyOS/eslint-config-democracyos/issues"
+  },
+  "homepage": "https://github.com/DemocracyOS/eslint-config-democracyos#readme"
+}
