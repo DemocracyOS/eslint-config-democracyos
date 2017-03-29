@@ -1,9 +1,9 @@
 module.exports = {
   "parser": "babel-eslint",
 
-  "extends": ["standard", "standard-react"],
+  "extends": ["standard", "standard-react", "plugin:node/recommended"],
 
-  "plugins": ["import", "promise", "babel"],
+  "plugins": ["import", "promise", "babel", "node"],
 
   "rules": {
     "arrow-parens": [
