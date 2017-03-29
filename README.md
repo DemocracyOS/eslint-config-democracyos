@@ -21,6 +21,8 @@ And, in your `.eslintrc`:
 
 * [Standard](http://standardjs.com/rules) rules.
 * [Standard React](https://github.com/feross/eslint-config-standard-react) rules.
+* [eslint-plugin-node](https://github.com/mysticatea/eslint-plugin-node)
+  * With the [default configuration](https://github.com/mysticatea/eslint-plugin-node#bulb-rules).
 * [eslint-plugin-import](https://github.com/benmosher/eslint-plugin-import)
   * Enforce a convention in module import order ([docs](https://github.com/benmosher/eslint-plugin-import/docs/rules/order.md)).
   * Forbid the use of extraneous packages ([docs](https://github.com/benmosher/eslint-plugin-import/docs/rules/no-extraneous-dependencies.md)).
