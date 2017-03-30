@@ -34,6 +34,8 @@ module.exports = {
       "error",
       "always"
     ],
+    "node/exports-style": 0,
+    "node/no-unsupported-features": 0,
     "react/prop-types": 0,
     "react/jsx-closing-bracket-location": [
       "error",
