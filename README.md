@@ -1,5 +1,7 @@
 # DemocracyOS' ESLint Shareable Config
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/DemocracyOS/eslint-config-democracyos.svg)](https://greenkeeper.io/)
+
 An ESLint [Shareable Config](http://eslint.org/docs/developer-guide/shareable-configs) featuring Standard React and some other goodies.
 
 Using this config you won't need to install any other dependencies/plugins, and you will profit from eslint, react, imports, etc...
