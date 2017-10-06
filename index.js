@@ -1,9 +1,9 @@
 module.exports = {
   "parser": "babel-eslint",
 
-  "extends": ["standard", "standard-react", "plugin:node/recommended"],
+  "extends": ["standard"],
 
-  "plugins": ["import", "promise", "babel", "node"],
+  "plugins": ["import", "promise", "babel"],
 
   "rules": {
     "arrow-parens": [
@@ -31,20 +31,6 @@ module.exports = {
     "import/no-extraneous-dependencies": 0,
     "import/no-unassigned-import": 0,
     "object-curly-spacing": [
-      "error",
-      "always"
-    ],
-    "node/exports-style": 0,
-    "node/no-unsupported-features": 0,
-    "react/prop-types": 0,
-    "react/jsx-closing-bracket-location": [
-      "error",
-      {
-        "selfClosing": "after-props",
-        "nonEmpty": "after-props"
-      }
-    ],
-    "react/jsx-space-before-closing": [
       "error",
       "always"
     ],
