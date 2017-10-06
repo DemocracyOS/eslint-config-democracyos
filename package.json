@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-democracyos",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "ESLint Shareable Config for DemocracyOS's projects",
   "main": "index.js",
   "dependencies": {
