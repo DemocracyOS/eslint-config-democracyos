@@ -10,7 +10,7 @@ module.exports = {
     "node": true
   },
 
-  "extends": ["eslint-config-democracyos", "plugin:node/recommended"],
+  "extends": ["plugin:node/recommended"],
 
   "plugins": ["node"],
 

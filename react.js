@@ -1,5 +1,5 @@
 module.exports = {
-  "extends": ["eslint-config-democracyos", "standard-react"],
+  "extends": ["standard-react"],
 
   "rules": {
     "react/jsx-closing-bracket-location": [

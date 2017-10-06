@@ -17,6 +17,22 @@ And, in your `.eslintrc`:
 }
 ```
 
+If you want to include Node.js rules:
+
+```JSON
+{
+  "extends": ["democracyos", "democracyos/node"]
+}
+```
+
+Or the React ones:
+
+```JSON
+{
+  "extends": ["democracyos", "democracyos/react"]
+}
+```
+
 ## Rules Included
 
 * [Standard](http://standardjs.com/rules) rules.
