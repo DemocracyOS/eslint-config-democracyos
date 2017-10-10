@@ -3,6 +3,10 @@ module.exports = {
 
   "extends": ["standard"],
 
+  "env": {
+    "es6": true
+  },
+
   "plugins": ["import", "promise", "babel"],
 
   "rules": {
@@ -30,6 +34,7 @@ module.exports = {
     ],
     "import/no-extraneous-dependencies": 0,
     "import/no-unassigned-import": 0,
+    "no-var": "error",
     "object-curly-spacing": [
       "error",
       "always"
